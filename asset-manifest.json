@@ -1,13 +1,13 @@
 {
-  "main.css": "/my-youtube/static/css/main.6db3d589.chunk.css",
-  "main.js": "/my-youtube/static/js/main.fa4ac8d9.chunk.js",
-  "main.js.map": "/my-youtube/static/js/main.fa4ac8d9.chunk.js.map",
-  "static/js/1.d1a4e5ca.chunk.js": "/my-youtube/static/js/1.d1a4e5ca.chunk.js",
-  "static/js/1.d1a4e5ca.chunk.js.map": "/my-youtube/static/js/1.d1a4e5ca.chunk.js.map",
-  "runtime~main.js": "/my-youtube/static/js/runtime~main.2feeef14.js",
-  "runtime~main.js.map": "/my-youtube/static/js/runtime~main.2feeef14.js.map",
-  "static/css/main.6db3d589.chunk.css.map": "/my-youtube/static/css/main.6db3d589.chunk.css.map",
-  "index.html": "/my-youtube/index.html",
-  "precache-manifest.a5ffd8671411436190fcd9a5bfb0bb62.js": "/my-youtube/precache-manifest.a5ffd8671411436190fcd9a5bfb0bb62.js",
-  "service-worker.js": "/my-youtube/service-worker.js"
+  "main.css": "/youtube-library/static/css/main.6db3d589.chunk.css",
+  "main.js": "/youtube-library/static/js/main.b8898813.chunk.js",
+  "main.js.map": "/youtube-library/static/js/main.b8898813.chunk.js.map",
+  "static/js/1.6a87cfa4.chunk.js": "/youtube-library/static/js/1.6a87cfa4.chunk.js",
+  "static/js/1.6a87cfa4.chunk.js.map": "/youtube-library/static/js/1.6a87cfa4.chunk.js.map",
+  "runtime~main.js": "/youtube-library/static/js/runtime~main.51855f83.js",
+  "runtime~main.js.map": "/youtube-library/static/js/runtime~main.51855f83.js.map",
+  "static/css/main.6db3d589.chunk.css.map": "/youtube-library/static/css/main.6db3d589.chunk.css.map",
+  "index.html": "/youtube-library/index.html",
+  "precache-manifest.2858064f8709ca3ac37a7998e1cdfef1.js": "/youtube-library/precache-manifest.2858064f8709ca3ac37a7998e1cdfef1.js",
+  "service-worker.js": "/youtube-library/service-worker.js"
 }
