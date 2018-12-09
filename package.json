@@ -1,11 +1,11 @@
 {
-  "name": "my-youtube",
+  "name": "youtube-library",
   "version": "1.0.0",
   "author": "NamHandsome",
-  "homepage": "https://namthit98.github.io/my-youtube/",
+  "homepage": "https://namthit98.github.io/youtube-library/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namthit98/my-youtube.git"
+    "url": "git+https://github.com/namthit98/youtube-library.git"
   },
   "main": "index.js",
   "license": "ISC",
