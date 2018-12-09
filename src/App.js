@@ -30,7 +30,7 @@ class App extends Component {
 
   render() {
     return (
-      <BrowserRouter basename='/my-youtube'>
+      <BrowserRouter basename='/youtube-library'>
         <div className="App">
           {this.state.showToast ? (
             <Toast color={this.state.toastColor}>
