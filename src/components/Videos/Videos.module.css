@@ -1,0 +1,7 @@
+.Videos {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+
+  max-height: 520px;
+  overflow-y: auto;
+}

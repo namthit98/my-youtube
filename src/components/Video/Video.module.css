@@ -1,0 +1,16 @@
+.Video {
+  display: flex !important;
+  align-items: center !important;
+  padding: 5px !important;
+  border-radius: 2px;
+  transition: background-color .2s ease-out;
+  cursor: pointer;
+}
+
+.Video:hover {
+  background-color: rgba(0, 0, 0, .1);
+}
+
+.Video img {
+  max-width: 180px;
+}
