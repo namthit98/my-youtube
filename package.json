@@ -2,7 +2,13 @@
   "name": "my-youtube",
   "version": "1.0.0",
   "author": "NamHandsome",
-  "homepage": "https://namthit98.github.io/my-youtube",
+  "homepage": "https://namthit98.github.io/my-youtube/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namthit98/my-youtube.git"
+  },
+  "main": "index.js",
+  "license": "ISC",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
