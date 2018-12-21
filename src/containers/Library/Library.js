@@ -57,7 +57,6 @@ class Library extends Component {
       selectedVideo: videos[0],
       nowVideo: 0
     })
-
   }
 
   nextVideo = () => {
@@ -75,6 +74,16 @@ class Library extends Component {
         nowVideo: nowVideo,
         autoplay: 1
       }
+    })
+  }
+
+  shuffleVideosHandler = () => {
+    const videos = [...this.state.videos]
+
+    videos.sort(() => 0.5 - Math.random())
+
+    this.setState({
+      videos
     })
   }
 
@@ -107,10 +116,16 @@ class Library extends Component {
               style={{ paddingTop: '5px', paddingBottom: '5px' }}
             >
               <button
-                className="ui button red large"
+                className="ui button blue large"
                 onClick={this.deleteVideoHandler}
               >
                 Delete
+              </button>
+              <button
+                className="ui button red large"
+                onClick={this.shuffleVideosHandler}
+              >
+                Shuffle
               </button>
             </div>
           </div>
